@@ -34,10 +34,10 @@ To ensure consistency in customer behavior analysis, the following business defi
 | Customer Type | Definition |
 | :--- | :--- |
 | **New Customer** | A customer making their first recorded purchase. |
-| **Returning Customer** | A customer who has purchased before and made another purchase after their first transaction. |
-| **Churned Customer** | A customer with no purchase activity within the next 90 days from their latest transaction. |
+| **Returning Customer** | A non-new customer who made another purchase after at least 30 days from their previous transaction. |
+| **Churned Customer** | A customer with no purchase activity for more than 90 days since their latest transaction. |
 
-These definitions were used to monitor customer retention trends and evaluate long-term business sustainability.
+These lifecycle definitions were used to evaluate customer acquisition, retention, and long-term business sustainability.
 
 ---
 
