@@ -52,7 +52,7 @@ RFM Score:
 ## 📈 Key Visualizations
 
 ### 📊 Revenue & Growth Trend
-📌 *[Insert line chart: Revenue over time]*  
+![Revenue Trend](image/revenue-line-chart.png)  
 → Shows overall growth trend and seasonality (peak in Q4)
 
 ---
