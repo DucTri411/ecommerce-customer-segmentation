@@ -64,7 +64,7 @@ RFM Score:
 ---
 
 ### 💰 Revenue by Customer Segment (RFM)
-📌 *[Insert bar chart: Revenue by RFM segment]*  
+![Revenue by Segment](image/revenue-by-segment.png)
 → Identifies high-value segments (Champions)
 
 ---
