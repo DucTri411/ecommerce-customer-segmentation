@@ -28,6 +28,19 @@ I implemented a robust tracking system to monitor the flow of the customer base:
 
 ---
 
+#### 📌 Customer Lifecycle Definitions
+To ensure consistency in customer behavior analysis, the following business definitions were applied:
+
+| Customer Type | Definition |
+| :--- | :--- |
+| **New Customer** | A customer making their first recorded purchase. |
+| **Returning Customer** | A customer who has purchased before and made another purchase after their first transaction. |
+| **Churned Customer** | A customer with no purchase activity within the next 90 days from their latest transaction. |
+
+These definitions were used to monitor customer retention trends and evaluate long-term business sustainability.
+
+---
+
 ## 🎯 Advanced Analytics: RFM Segmentation
 A core highlight of this project is the **RFM (Recency, Frequency, Monetary)** model. This allows for data-driven customer segmentation:
 
