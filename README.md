@@ -58,7 +58,7 @@ RFM Score:
 ---
 
 ### 👥 Customer Lifecycle Distribution
-📌 *[Insert chart: New vs Returning vs Churn]*  
+![Customer Life Cycle](image/customer-analytics.png)  
 → Highlights imbalance between acquisition and retention
 
 ---
