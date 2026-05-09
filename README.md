@@ -18,14 +18,14 @@ The objective is to understand key growth drivers, identify retention issues, an
 ## 📊 Dataset
 - Online Retail dataset (UK-based e-commerce)
 - Time range: Dec 2009 – Dec 2011
-- ~36,000+ transactions | ~5,800 customers :contentReference[oaicite:0]{index=0}  
+- ~36,000+ transactions | ~5,800 customers
 
 ---
 
 ## 🧹 Data Cleaning
-- Removed cancelled orders (Invoice starting with "C") :contentReference[oaicite:1]{index=1}  
-- Filtered out negative quantity values :contentReference[oaicite:2]{index=2}  
-- Removed null Customer IDs :contentReference[oaicite:3]{index=3}  
+- Removed cancelled orders (Invoice starting with "C")
+- Filtered out negative quantity values
+- Removed null Customer IDs
 - Standardized date format for time-based analysis  
 
 ---
@@ -35,7 +35,7 @@ The objective is to understand key growth drivers, identify retention issues, an
 ### 1. Customer Lifecycle Analysis
 - **New Customers**: First-time buyers within a given period  
 - **Returning Customers**: Customers who repurchase after a gap  
-- **Churned Customers**: No purchase after 90 days :contentReference[oaicite:4]{index=4}  
+- **Churned Customers**: No purchase after 90 days
 
 ---
 
@@ -45,7 +45,7 @@ The objective is to understand key growth drivers, identify retention issues, an
 - Monetary: Total spending  
 
 RFM Score:
-- Calculated using percentile-based scoring (1–5 scale) :contentReference[oaicite:5]{index=5}  
+- Calculated using percentile-based scoring (1–5 scale)
 
 ---
 
@@ -83,9 +83,9 @@ RFM Score:
 
 ## 🔍 Key Insights
 
-- Business growth is heavily driven by **new customers**, while retention remains weak :contentReference[oaicite:6]{index=6}  
-- **Churn rate is high (~50%)**, indicating poor customer retention :contentReference[oaicite:7]{index=7}  
-- Revenue is highly concentrated in **Champions (~60–70%)** :contentReference[oaicite:8]{index=8}  
+- Business growth is heavily driven by **new customers**, while retention remains weak
+- **Churn rate is high (~50%)**, indicating poor customer retention
+- Revenue is highly concentrated in **Champions (~60–70%)**
 - Large portion of customers fall into **At Risk / Lost segments**  
 - Growth is **seasonal and unstable**, peaking in Q4  
 
