@@ -69,14 +69,14 @@ RFM Score:
 
 ---
 
-### 📉 Churn Trend
-📌 *[Insert line or card: Churn rate over time]*  
-→ Tracks customer drop-off behavior
+### 📉 Segment Distribution
+![Customer Segment Distribution](image/customer-segment-distribution.png)
+→ Highlights distribution of customers across segments
 
 ---
 
 ### 📊 AOV & Purchase Frequency
-📌 *[Insert chart: AOV & Frequency trends]*  
+![AOV & Purchase Frequency](image/aov-and-frequency.png)
 → Explains drivers behind revenue growth
 
 ---
