@@ -1,14 +1,14 @@
-# 📊 Dataset: Online Retail II
+# Dataset: Online Retail II
 
 ## 📖 Context
-This dataset contains all transactions occurring for a UK-based and registered, non-store online retail business between **01/12/2009** and **09/12/2011**. 
+This dataset contains all transactions occurring for a UK-based and registered, non-store online retail business between **01/12/2009** and **09/12/2011**.
 
 - **Business Model:** The company primarily sells unique all-occasion gift-ware.
 - **Customer Base:** A significant portion of the customers are **wholesalers**, which often results in bulk orders.
 
 ---
 
-## 딕 Data Dictionary (Attribute Information)
+## Data Dictionary (Attribute Information)
 
 The dataset consists of 8 main attributes. Below is a detailed breakdown of each column:
 
